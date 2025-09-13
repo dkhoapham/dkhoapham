@@ -13,9 +13,9 @@
     alt="GitHub Stats" 
   />
   <img 
-    src="https://streak-stats.demolab.com?user=dkhoapham&theme=dracula&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dkhoapham&layout=compact&theme=dracula&hide_border=false" 
     height="150" 
-    alt="GitHub Streak" 
+    alt="All Languages" 
   />
 </div>
 
